@@ -21,6 +21,7 @@ https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
 - *UNISOLAR Solar Power Generation Dataset: 
 https://www.kaggle.com/datasets/cdaclab/unisolar
 
+https://github.com/CDAC-lab/UNISOLAR
 
 ### ARTIGOS SOBRE:
 
