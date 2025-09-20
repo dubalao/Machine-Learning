@@ -1,7 +1,7 @@
 # SOLAR ENERGY PREDICITION
 
 
-DATASETS:
+### DATASETS:
 
 Solar Power Generation & Energy Consumption: 
 https://www.kaggle.com/datasets/pythonafroz/solar-power-generation-and-energy-consumption-data?select=archive
@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
 https://www.kaggle.com/datasets/cdaclab/unisolar
 
 
-ARTIGOS SOBRE:
+### ARTIGOS SOBRE:
 
 [1] S. Wimalaratne, D. Haputhanthri, S. Kahawala, G. Gamage, D. Alahakoon and A. Jennings, "UNISOLAR: An Open Dataset of Photovoltaic Solar Energy Generation in a Large Multi-Campus University Setting," 2022 15th International Conference on Human System Interaction (HSI), 2022, pp. 1-5, doi: 10.1109/HSI55341.2022.9869474.
 
