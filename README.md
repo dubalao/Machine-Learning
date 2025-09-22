@@ -3,9 +3,6 @@
 
 ### DATASETS:
 
-- Solar Power Generation & Energy Consumption: 
-https://www.kaggle.com/datasets/pythonafroz/solar-power-generation-and-energy-consumption-data?select=archive
-
 - Solar Energy Prediction Dataset: 
 https://www.kaggle.com/datasets/yassineamrir/solar-energy-5/data
 
