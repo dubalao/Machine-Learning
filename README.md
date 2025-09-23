@@ -9,9 +9,6 @@ https://www.kaggle.com/datasets/yassineamrir/solar-energy-5/data
 - Solar Energy Production:
 https://www.kaggle.com/datasets/ivnlee/solar-energy-production
 
-- *Solar energy power generation dataset: 
-https://www.kaggle.com/datasets/stucom/solar-energy-power-generation-dataset
-
 - *Solar Power Generation Data: 
 https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
 
